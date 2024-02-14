@@ -1,0 +1,93 @@
+backoffice
+Conciliação de posições - BMF & Ações
+
+Mapa de Resultados Analíticos - 02-02
+
+Middle Renda Fixa
+Ativos Liberados Cetip
+
+Administração Fiduciária
+Alerta de desenquadramento de clubes - Garantias + Opções
+
+middle Risco
+Verificação diária RF - IPCA
+
+Ativos LFT com remuneração incorreta
+Ativos LFT que possuem remuneração afetada pelo IPC-A:
+Não houveram ativos LFT com remuneração incorreta 
+Variação diária >= 10%
+Ativos que possuem uma variação maior ou igual a 10% (CRI): Não houveram ativos do tipo CRI com variação maior ou igual a 10% 
+Ativos que possuem uma variação maior ou igual a 10% (DEB): Não houveram ativos do tipo DEB com variação maior ou igual a 10% 
+Ativos que possuem uma variação maior ou igual a 10% (CDB): Não houveram ativos do tipo CDB com variação maior ou igual a 10% 
+
+Verificação diária RF - CDI
+
+Rentabilidade >= 20%
+Top 5 ativos com rentabilidade maior ou igual a 20% (CRI): 
+Codigo Cliente	Titulo	Dt Aplicação	PU Aplicação	PU D-1	PU Atual	Rentabilidade % (PU Atual/PU Aplicação)	Remuneração Cliente
+
+Tesouraria 
+
+O robô ConPag conciliou as liquidações diárias. Segue em anexo.
+
+
+
+
+Administração Fiduciária <adm.fiduciaria@ativainvestimentos.com.br>
+fundos
+
+Cotas atuais dos fundos + Posições (BM&F, TCF, VCF e garantias)
+, em anexo, o documento referente às cotas atualizadas dos fundos de investimento. Além deste, outros documentos anexados:
+•	Posições em fundos;
+•	Posições em TCF (Proventos);
+•	Posições em BM&F;
+•	Posições em renda fixa;
+•	Garantia (depositada e requerida);
+•	Unificação: BTC Tomador; BTC Doador; Posições em VCF (AOT - Ações, OPC e termo).
+
+
+
+
+middle
+Operações divergentes entre VIRTUAL e SINACOR de 01/02/2024
+
+
+middle Renda Fixa <rendafixa@ativainvestimentos.com.br>
+Ativos verificados para atualizar a condição de liquidez 
+
+
+
+
+Backoffice Fundos <backofficefundos@ativainvestimentos.com.br>; Tesouraria <tesouraria@ativainvestimentos.com.br>
+Risco Ativa | Saldo Devedor Institucional -2024-02-01
+
+
+
+Middle Renda Fixa <middlerendafixa@ativainvestimentos.com.br>
+Processo aprovação de boletas executadas 
+
+comercial
+Vencimento
+
+
+
+BackofficeBMF <backofficebmf@ativainvestimentos.com.br>
+Conciliação de posições - BMF & Ações (31/01/2024)
+
+O robô ConPosi realizou a conciliação de dados entre B3 e Ativa para a data de 31/01/2024, no mercado de BMF e Ações. Seguem os detalhes:
+
+# BMF:
+•	Qtd. dados extraídos do Portal = 111
+•	Qtd. dados extraídos do Sinacor = 111
+•	Igualdades encontradas = 111
+•	Divergências encontradas = 0
+
+# AÇÕES:
+•	Qtd. dados extraídos do Portal = 58623
+•	Qtd. dados extraídos do Sinacor = 58623
+•	Igualdades encontradas = 58623
+•	Divergências encontradas = 0
+DADOS DISCREPANTES
+COD_CLI	COD_CART	TIPO_MERC	COD_NEG	QTDE_TOT
+
+
